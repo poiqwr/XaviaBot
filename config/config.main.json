@@ -21,8 +21,8 @@
     "ABSOLUTES": [
         ""
     ],
-    "NAME": "Lorex Ai",
-    "PREFIX": "!",
+    "NAME": "Ai",
+    "PREFIX": "-",
     "timezone": "Asia/Manila",
     "REFRESH": "43200000"
 }
